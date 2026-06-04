@@ -1,6 +1,6 @@
 # 📊 Flipkart Sales Report Dashboard
 
-## 📌 Project Overview:
+## 📌 Project Overview: 
 This project involves the design and development of a **comprehensive Flipkart E-Commerce Analytics Dashboard** that provides deep insights into **product performance, sales trends, customer behavior, and profitability metrics**. The dashboard is designed to serve as a **single source of truth for Flipkart’s e-commerce operations**, integrating multiple data dimensions into a cohesive analytical platform.
 
 ### Expanded Project Objectives:
