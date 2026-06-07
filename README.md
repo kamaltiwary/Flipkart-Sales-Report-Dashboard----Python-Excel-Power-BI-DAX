@@ -518,7 +518,7 @@ The Flipkart E-Commerce Analytics Dashboard provides a comprehensive solution fo
 **Data Analyst**
 
 📧 **kamalnayantiwary73@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
+🔗 [LinkedIn](http://www.linkedin.com/in/kamalnayantiwary)  
 
 ---
 
